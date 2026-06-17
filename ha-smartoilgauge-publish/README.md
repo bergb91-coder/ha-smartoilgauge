@@ -31,7 +31,7 @@ The `Oil Level` sensor also exposes the following attributes:
 ### Via HACS (recommended)
 
 1. In HACS go to **Integrations** → three dots → **Custom repositories**
-2. Add `https://github.com/YOUR_GITHUB_USERNAME/ha-smartoilgauge` as an **Integration**
+2. Add `https://github.com/bergb91-coder/ha-smartoilgauge` as an **Integration**
 3. Click **Smart Oil Gauge** → **Download**
 4. Restart Home Assistant
 5. Go to **Settings → Devices & Services → Add Integration** → search **Smart Oil Gauge**
