@@ -2,11 +2,11 @@
   "domain": "smartoilgauge",
   "name": "Smart Oil Gauge",
   "version": "1.0.0",
-  "documentation": "https://github.com/YOUR_GITHUB_USERNAME/ha-smartoilgauge",
-  "issue_tracker": "https://github.com/YOUR_GITHUB_USERNAME/ha-smartoilgauge/issues",
+  "documentation": "https://github.com/bergb91-coder/ha-smartoilgauge",
+  "issue_tracker": "https://github.com/bergb91-coder/ha-smartoilgauge/issues",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@YOUR_GITHUB_USERNAME"],
+  "codeowners": ["@bergb91-coder"],
   "iot_class": "cloud_polling",
   "config_flow": true
 }
