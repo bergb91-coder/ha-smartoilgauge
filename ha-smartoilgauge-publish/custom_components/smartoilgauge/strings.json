@@ -1,0 +1,20 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Oil Gauge",
+        "description": "Enter your Smart Oil Gauge (Connected Consumer Fuel) account credentials. These are the same email and password you use to log into app.smartoilgauge.com.",
+        "data": {
+          "username": "Email address",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid email or password. Please check your Smart Oil Gauge account credentials at app.smartoilgauge.com."
+    },
+    "abort": {
+      "already_configured": "Smart Oil Gauge is already configured."
+    }
+  }
+}
